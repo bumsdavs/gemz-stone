@@ -14,8 +14,11 @@ export default function Banner() {
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
           Discover the World of Gemstones
         </h1>
-        <p className="text-lg md:text-xl mb-6">
+        <p className="text-lg md:text-xl mb-2">
           Explore our exclusive collection of precious and semi-precious stones.
+        </p>
+        <p className="text-base mb-6">
+          Dealers in all kinds of gemstone , raw golds, Antiques , turquoise and all kinds of fashions designs.
         </p>
 
         {/* <Link href="/shop">

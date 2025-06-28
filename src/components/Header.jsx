@@ -14,7 +14,7 @@ export default function Header() {
             </div>
             <div className="flex items-center gap-1">
               <FaEnvelope />
-              <span>antiquescastle12345@gmail.com</span>
+              <span>susanbrendavincent324@gmail.com</span>
             </div>
           </div>
         </div>
