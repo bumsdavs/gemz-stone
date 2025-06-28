@@ -17,7 +17,7 @@ export default function Header() {
               <FaEnvelope />
               <span>susanVincent528@gmail.com</span>
             </div>
-            <div className="flex items-center gap-1">
+            <div className="flex items-center text-nowrap gap-1">
               <IoCallSharp />
               <span>+1-602-456-6066</span>
             </div>
