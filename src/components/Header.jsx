@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { FaMapMarkerAlt, FaEnvelope } from "react-icons/fa";
+import { IoCallSharp } from "react-icons/io5";
 
 export default function Header() {
   return (
@@ -14,7 +15,11 @@ export default function Header() {
             </div>
             <div className="flex items-center gap-1">
               <FaEnvelope />
-              <span>susanbrendavincent324@gmail.com</span>
+              <span>susanVincent528@gmail.com</span>
+            </div>
+            <div className="flex items-center gap-1">
+              <IoCallSharp />
+              <span>+1-602-456-6066</span>
             </div>
           </div>
         </div>
